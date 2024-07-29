@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome e Pedro, mas conhecido como Peh, sou estudante do curso de Ciência da Computação, e estou no começo de um sonho que era ser desenvolvedor, cientista de tecnologias entre outros sonho de criança na area da tecnologia.<br>Infelizmente so pude começar de fato vivenciar e ir atras do meu sonho no inicio do ano de 2024, mas passado e passo e eu estou amando poder estudar e aprender a cada dia mais sobre o mundo da Tecnologia, vem comigo desbravar novas aventuras.<br>Aqui irei compartilhar meus estudos e conhecimentos, e tambem quero poder receber criticas construtivas, conhecimento de pessoas da area e muito mais.</p>
+<p align="left">Meu nome e Pedro, mas conhecido como Peh, sou estudante do curso de Ciência da Computação, e estou no começo de um sonho que era ser desenvolvedor, cientista de tecnologias entre outros sonho de criança na area da tecnologia.<br>Infelizmente so pude começar de fato vivenciar e ir atras do meu sonho no inicio do ano de 2024, mas passado e passado e eu estou amando poder estudar e aprender a cada dia mais sobre o mundo da Tecnologia, vem comigo desbravar novas aventuras.<br>Aqui irei compartilhar meus estudos e conhecimentos, e tambem quero poder receber criticas construtivas, conhecimento de pessoas da area e muito mais.</p>
 
 ###
 
